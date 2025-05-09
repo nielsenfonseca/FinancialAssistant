@@ -1,0 +1,11 @@
+# Exclude .vscode folder
+.vscode/
+
+# Exclude .env folder
+/.env
+
+# Exclude venv folder
+/venv/
+
+# Exclude __pycache__ folders
+**/__pycache__/
